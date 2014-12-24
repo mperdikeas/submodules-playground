@@ -1,3 +1,7 @@
 [submodule "environment"]
 	path = environment
 	url = https://github.com/mperdikeas/environment.git
+[submodule "ocaml-mutil"]
+	path = ocaml-mutil
+	url = https://github.com/mperdikeas/ocaml-mutil.git
+	branch = master
